@@ -1,2 +1,4 @@
 Welcome to Basics of Git.
 Let's start how can we learn GIT.
+
+Thank you for visiting.
